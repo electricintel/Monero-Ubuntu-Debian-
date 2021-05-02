@@ -12,8 +12,6 @@ Download the Monero installation package.
 # cd /downloads
 # wget https://downloads.getmonero.org/linux64
 
-If the above wget doesn't work, download the copy from this repository and move it to /downloads, then extract and install it with the below instructions
-
 Extract and install the Monero node software.
 
 # tar -jxvf linux64
